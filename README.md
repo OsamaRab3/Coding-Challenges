@@ -1,6 +1,6 @@
 # Coding Challenges
 
-Welcome to my solutions repository for various coding challenges from [Coding Challenges](https://codingchallenges.fyi/challenges/).
+Welcome to my solutions repository for various coding challenges from [Coding Challenges](https://codingchallenges.fyi/challenges/challenge-wc).
 
 ## Introduction
 
