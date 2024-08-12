@@ -11,7 +11,8 @@ if [ -z "$1" ]; then
 fi
 
 long_url=$1
-short_url=$(curl -s https://is.gd/create.php\?format\=simple\&url\=$long_url)
+encoded_url=$(echo "$long_url" | jq -sRr @uri)
+short_url=$(curl -s "https://is.gd/create.php?format=simple&url=$encoded_url")
 
 if [[ $short_url == "Error:"* ]]; then
     echo -e "\e[31mFailed to shorten URL. Please check the input URL.\e[0m"
