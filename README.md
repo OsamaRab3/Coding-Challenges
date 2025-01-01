@@ -7,14 +7,14 @@ Welcome to my solutions repository for various coding challenges from [Coding Ch
 This repository contains my solutions to a series of coding challenges aimed at helping me become a better software engineer by building real-world applications.
 
 ## List of Challenges
-1. **wc tool** : [WC Tool](./wc%20tool/README.md)
+1. **wc tool** : [WC Tool](./wc_tool/README.md)
    - **Description:** Count words, lines, and characters in files
    - **Language:** C
 
-2. **URL Shortener** : [URL Shortener](./URL%20Shortener/README.md)
+2. **URL Shortener** : [URL Shortener](./URL_Shortener/README.md)
    - **Description:** The script takes a long URL as input and returns a shortened version of the URL.
    - **Language:** bash 
-3. **Web Server** : [Web server](./Web%20Server/README.md)
+3. **Web Server** : [Web server](./Web_Server/README.md)
 
 
 
