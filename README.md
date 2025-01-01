@@ -7,30 +7,18 @@ Welcome to my solutions repository for various coding challenges from [Coding Ch
 This repository contains my solutions to a series of coding challenges aimed at helping me become a better software engineer by building real-world applications.
 
 ## List of Challenges
-1. **wc tool**
+1. **wc tool** : [WC Tool](./wc%20tool/README.md)
    - **Description:** Count words, lines, and characters in files
    - **Language:** C
-2. **URL Shortener**
+
+2. **URL Shortener** : [URL Shortener](./URL%20Shortener/README.md)
    - **Description:** The script takes a long URL as input and returns a shortened version of the URL.
    - **Language:** bash 
-3. **Web Server** : [Web server](https://github.com/OsamaRab3/Coding-Challenges/tree/main/Web%20Server)
+3. **Web Server** : [Web server](./Web%20Server/README.md)
 
 
-## Future Projects
 
-Future projects! This space will be the home for various projects that I plan to work on in the coming months. 
-
-
-- [ ] **Personal Portfolio Website**
-   - **Description:** A modern, responsive personal portfolio website to showcase my skills, projects, and experience.
-   - **Technologies:** HTML, CSS, JavaScript, and a backend framework (Node.js).
-   - **Goals:** Learn advanced web development techniques and create a professional online presence.
-
-- [ ] **Task Management App**
-   - **Description:** A web-based application for managing daily tasks and to-do lists.
-   - **Technologies:** React, Node.js, MySQL.
-   - **Goals:** Build a full-stack application that helps users organize their tasks efficiently.
-
+## Completed Projects 
 - [x] **Web Server**
    - **Description:** A basic web server built using Node.js that can handle HTTP requests, serve static files, and process simple routing. The server will provide a foundation for understanding how web servers work and how to manage requests and responses.
    - **Technologies:** Node.js, Express.js.
@@ -39,6 +27,11 @@ Future projects! This space will be the home for various projects that I plan to
      - Understand HTTP protocol and how web servers handle requests.
      - Implement routing, middleware, and static file serving.
    -  **Status:** Completed
+
+
+## Future Projects
+
+Future projects! This space will be the home for various projects that I plan to work on in the coming months. 
 
 - [ ] **Chrome Extension**
    - **Description:** A custom Chrome extension that enhances the browsing experience by adding new features or automating tasks. This project will explore how to develop and distribute Chrome extensions, interacting with the DOM and using Chrome APIs.
@@ -56,14 +49,6 @@ Future projects! This space will be the home for various projects that I plan to
      - Enhance the game with animations, sound effects, and user interface improvements.
      - Learn about game loops, event handling, and canvas rendering.
    
-
-- [ ] **Shell**
-   - **Description:** A custom shell implemented in Go that can interpret and execute basic commands, similar to bash or zsh. This project will delve into the creation of a command-line interface, including parsing user input and managing processes.
-   - **Technologies:** Go (Golang).
-   - **Goals:**
-     - Understand the basics of command-line interfaces and shell scripting.
-     - Learn process management, input/output redirection, and piping in Go.
-     - Build a functional shell that can run commands and handle various shell operations.
 
 
 ## How to Contribute
