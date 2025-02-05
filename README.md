@@ -33,7 +33,7 @@ This repository contains my solutions to a series of coding challenges aimed at 
 
 Future projects! This space will be the home for various projects that I plan to work on in the coming months. 
 
-- [ ] **Chrome Extension**
+- [x] **Chrome Extension** 
    - **Description:** A custom Chrome extension that enhances the browsing experience by adding new features or automating tasks. This project will explore how to develop and distribute Chrome extensions, interacting with the DOM and using Chrome APIs.
    - **Technologies:** HTML, CSS, JavaScript, Chrome Extension APIs.
    - **Goals:**
